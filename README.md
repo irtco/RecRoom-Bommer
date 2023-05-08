@@ -1,6 +1,8 @@
 # RecRoom-Bommer
 RecRoom Accounts Guess / Sniper 🌌
 
+Run `install.bat` File Before Running `recboomer.py`
+
 **DM ME FOR ANY HELP:** `!!#5555`
 
 <img src="https://cdn.discordapp.com/attachments/884850906158481448/1104288820062589008/image.png" height="482" width="702" >
