@@ -8,8 +8,6 @@ import random
 colorama.init(autoreset = True)
 import threading
 from dhooks import *
-from licensing.models import *
-from licensing.methods import Key, Helpers
 import easygui
 import base64
 
