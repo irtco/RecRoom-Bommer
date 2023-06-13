@@ -24,9 +24,10 @@ ABC = 'abcdefghigklmnopqrstuvwxyz123456789_-.'
 class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
-        leen = requests.get("https://bin.sx/documents/nbeqdm8BuT")
-        lenj=leen.json()
-        dt=lenj['data']
+        leen = requests.get("https://pastebin.com/raw/5XiyRi9S")
+        print(leen.text)
+        dt=leen.text
+        #dt=lenj['data']
 
         self.title("RecRoom Boomer | V1.2")
         self.geometry("700x450")
@@ -359,5 +360,6 @@ if __name__ == "__main__":
             app.mainloop()
 
 
-
-
+#made by irtco | !!#5555
+#made by irtco | !!#5555
+#made by irtco | !!#5555
