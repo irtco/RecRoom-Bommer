@@ -1,5 +1,5 @@
-# RecRoom-Bommer
-RecRoom Accounts Guess / Sniper 🌌 (PATCHED)
+# RecRoom-Bommer (PATCHED)
+RecRoom Accounts Guess / Sniper 🌌
 
 Run `install.bat` File Before Running `recboomer.py`
 
